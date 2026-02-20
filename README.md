@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
+![ML](https://img.shields.io/badge/Machine-Learning-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # 🌾 Smart Harvest – Crop & Fertilizer Recommendation System
 
 An end-to-end Machine Learning web application that recommends the most suitable **crop** and **fertilizer** based on soil nutrients and environmental conditions.
@@ -51,6 +56,16 @@ Crop-and-Fertilizer-Recommendation-System/
 ├── fertilizer-recommendation.ipynb
 └── README.md
 ```
+
+## 📸 Application Preview
+
+### 🌾 Crop Recommendation Interface
+![Crop Recommendation](Images/Crop%20Recommendation%20Screenshot.png)
+
+---
+
+### 🧪 Fertilizer Recommendation Interface
+![Fertilizer Recommendation](Images/Fertilizer%20Recommendation%20Screenshot.png)
 
 ---
 
